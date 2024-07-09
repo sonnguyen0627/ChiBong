@@ -2,8 +2,8 @@ const CONFIG = {
   introTitle: "Chị Bông à!",
   introDesc: `Chị Bông trả lời giúp Topi một câu hỏi nhá`,
   btnIntro: "Dạ",
-  title: "Phải chăng chị Bông đã gặp phải nhiều vấn đề cuộc sống !!!!!!!",
-  desc: "Vậy chị Bông chắc ăn phải giải quyết nó nhá ???",
+  title: "Phải chăng chị Bông đã gặp phải nhiều vấn đề cs!",
+  desc: "Vậy chị Bông phải giải quyết nó nhá ???",
   btnYes: "Dạ chắc chắn !!!!!",
   btnNo: "Hông giải quyết",
   question:
